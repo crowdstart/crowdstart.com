@@ -170,7 +170,7 @@ hr {
 
 mark {
   background: #ff0;
-  color: #000;
+  color: #333;
 }
 
 /**
@@ -2824,7 +2824,7 @@ input[type="password"]:after,
  */
 
 .b--black {
-  border-color: #000;
+  border-color: #333;
 }
 
 .b--near-black {
@@ -4191,7 +4191,7 @@ code,
 }
 
 .b {
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .thin {
@@ -6489,7 +6489,7 @@ img {
 /* Skins for specific pseudoclasses */
 
 .focus-black:focus {
-  color: #000;
+  color: #333;
 }
 
 .focus-near-black:focus {
@@ -6693,7 +6693,7 @@ img {
 }
 
 .bg-focus-black:focus {
-  background-color: #000;
+  background-color: #333;
 }
 
 .bg-focus-near-black:focus {
@@ -6897,7 +6897,7 @@ img {
 }
 
 .hover-black:hover {
-  color: #000;
+  color: #333;
 }
 
 .hover-near-black:hover {
@@ -7101,7 +7101,7 @@ img {
 }
 
 .bg-hover-black:hover {
-  background-color: #000;
+  background-color: #333;
 }
 
 .bg-hover-near-black:hover {
@@ -7311,7 +7311,7 @@ img {
 */
 
 .fill-black {
-  fill: #000;
+  fill: #333;
 }
 
 .fill-near-black {
@@ -7525,7 +7525,7 @@ img {
 }
 
 .stroke-black {
-  stroke: #000;
+  stroke: #333;
 }
 
 .stroke-near-black {
