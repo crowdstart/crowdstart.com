@@ -1,8 +1,8 @@
 # crowdstart.com
 
-### Our legendary, AI-powered marketing platform, re-designed for crypto.
+## Crowdstart is now part of [Hanzo](https://hanzo.ai)
 
-## Crowdstart is now part of <a href="https://hanzo.ai" style="color: #b17be0; text-decoration:none">Hanzo</a>
+### Our legendary, AI-powered marketing platform, re-designed for crypto.
 
 Our data-driven marketing engine powered some of the most successful
 crowdfunding campaigns of all-time and scaled revenue from zero to
